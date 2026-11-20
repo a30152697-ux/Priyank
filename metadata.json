@@ -1,0 +1,6 @@
+{
+  "name": "SUKOON AI",
+  "description": "Personal AI study teacher, private knowledge manager, Book-First RAG, PYQ vault, and productivity companion of Priyanksinh Raj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

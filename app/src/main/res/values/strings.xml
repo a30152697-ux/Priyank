@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SUKOON AI</string>
+    <string name="ai_name">SUKOON</string>
+    <string name="owner_subtitle">Personal AI of Priyanksinh Raj</string>
+    <string name="notification_channel_study_name">Study &amp; Revision Reminders</string>
+    <string name="notification_channel_study_desc">Scheduled study tasks, revision reminders, and exam countdown alerts for Owner</string>
+</resources>
